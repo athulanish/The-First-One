@@ -5,4 +5,6 @@ Created this readme to understand how to create a Repository and how to create a
 ## Adding two hastags create a subheading
 
 Lets practise to edit and commit in VS code.
+How to add a subheading! Making change to rise conflict
+
 
